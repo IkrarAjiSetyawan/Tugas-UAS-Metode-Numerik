@@ -1,5 +1,4 @@
 # Tugas-UAS-Metode-Numerik
-Code coding untuk UAS Metode Numerik - Ikrar Aji Setyawan
 import numpy as np 
 
 p = 21
